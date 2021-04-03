@@ -16,6 +16,7 @@ router.post('/login', authUser)
 // @desc    - Google LOGIN
 // @route   - GET /api/auth/googlelogin
 //@access   - public
-router.post('/googlelogin', r)
+
+//router.post('/googlelogin', )
 
 export default router
